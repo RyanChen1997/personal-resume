@@ -9,7 +9,7 @@ title = "小狗瑞恩"
 [params]
   avatarAltText = "avatar"
   avatarSize = "size-m"
-  avatarURL = "/images/avatar.jpg"
+  avatarURL = "/personal-resume/images/avatar.jpg"
 
   customHeadHTML = """
     <!-- KaTeX -->
