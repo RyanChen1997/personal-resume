@@ -73,3 +73,8 @@ title = "小狗瑞恩"
     # icons: https://feathericons.com
     pre = "<span data-feather='github'></span>"
     post = ""
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
