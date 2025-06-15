@@ -1,4 +1,4 @@
-baseURL = "https://ryanchen1997.github.io/"
+baseURL = "https://ryanchen1997.github.io/personal-resume/"
 defaultContentLanguage = "zh-cn"
 # Automatically generate robots.txt
 enableRobotsTXT = true
